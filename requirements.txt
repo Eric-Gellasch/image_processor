@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+pydantic
+pymongo
+pytest
+httpx
+python-multipart
+openai
